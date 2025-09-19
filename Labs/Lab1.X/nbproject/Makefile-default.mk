@@ -92,11 +92,11 @@ ${OBJECTDIR}/Lab1.o: Lab1.asm  nbproject/Makefile-${CND_CONF}.mk
 	@${MKDIR} "${OBJECTDIR}" 
 	@${RM} ${OBJECTDIR}/Lab1.o.d 
 	@${RM} ${OBJECTDIR}/Lab1.o 
-	@${FIXDEPS} dummy.d -e "C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Lab1/Lab1.X/Lab1.ERR" $(SILENT) -c ${MP_AS} $(MP_EXTRA_AS_PRE) -d__DEBUG -d__MPLAB_DEBUGGER_SIMULATOR=1 -q -p$(MP_PROCESSOR_OPTION)  $(ASM_OPTIONS)   \"C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Lab1/Lab1.X/Lab1.asm\" 
-	@${MV}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Lab1/Lab1.X/Lab1.O ${OBJECTDIR}/Lab1.o
-	@${MV}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Lab1/Lab1.X/Lab1.ERR ${OBJECTDIR}/Lab1.o.err
-	@${MV}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Lab1/Lab1.X/Lab1.LST ${OBJECTDIR}/Lab1.o.lst
-	@${RM}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Lab1/Lab1.X/Lab1.HEX 
+	@${FIXDEPS} dummy.d -e "C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Homeworks/Lab1.X/Lab1.ERR" $(SILENT) -c ${MP_AS} $(MP_EXTRA_AS_PRE) -d__DEBUG -d__MPLAB_DEBUGGER_SIMULATOR=1 -q -p$(MP_PROCESSOR_OPTION)  $(ASM_OPTIONS)   \"C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Homeworks/Lab1.X/Lab1.asm\" 
+	@${MV}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Homeworks/Lab1.X/Lab1.O ${OBJECTDIR}/Lab1.o
+	@${MV}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Homeworks/Lab1.X/Lab1.ERR ${OBJECTDIR}/Lab1.o.err
+	@${MV}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Homeworks/Lab1.X/Lab1.LST ${OBJECTDIR}/Lab1.o.lst
+	@${RM}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Homeworks/Lab1.X/Lab1.HEX 
 	@${DEP_GEN} -d "${OBJECTDIR}/Lab1.o"
 	@${FIXDEPS} "${OBJECTDIR}/Lab1.o.d" $(SILENT) -rsi ${MP_AS_DIR} -c18 
 	
@@ -105,11 +105,11 @@ ${OBJECTDIR}/Lab1.o: Lab1.asm  nbproject/Makefile-${CND_CONF}.mk
 	@${MKDIR} "${OBJECTDIR}" 
 	@${RM} ${OBJECTDIR}/Lab1.o.d 
 	@${RM} ${OBJECTDIR}/Lab1.o 
-	@${FIXDEPS} dummy.d -e "C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Lab1/Lab1.X/Lab1.ERR" $(SILENT) -c ${MP_AS} $(MP_EXTRA_AS_PRE) -q -p$(MP_PROCESSOR_OPTION)  $(ASM_OPTIONS)   \"C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Lab1/Lab1.X/Lab1.asm\" 
-	@${MV}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Lab1/Lab1.X/Lab1.O ${OBJECTDIR}/Lab1.o
-	@${MV}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Lab1/Lab1.X/Lab1.ERR ${OBJECTDIR}/Lab1.o.err
-	@${MV}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Lab1/Lab1.X/Lab1.LST ${OBJECTDIR}/Lab1.o.lst
-	@${RM}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Lab1/Lab1.X/Lab1.HEX 
+	@${FIXDEPS} dummy.d -e "C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Homeworks/Lab1.X/Lab1.ERR" $(SILENT) -c ${MP_AS} $(MP_EXTRA_AS_PRE) -q -p$(MP_PROCESSOR_OPTION)  $(ASM_OPTIONS)   \"C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Homeworks/Lab1.X/Lab1.asm\" 
+	@${MV}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Homeworks/Lab1.X/Lab1.O ${OBJECTDIR}/Lab1.o
+	@${MV}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Homeworks/Lab1.X/Lab1.ERR ${OBJECTDIR}/Lab1.o.err
+	@${MV}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Homeworks/Lab1.X/Lab1.LST ${OBJECTDIR}/Lab1.o.lst
+	@${RM}  C:/Users/sergi/OneDrive/Documents/Universidad/Micros/Homeworks/Lab1.X/Lab1.HEX 
 	@${DEP_GEN} -d "${OBJECTDIR}/Lab1.o"
 	@${FIXDEPS} "${OBJECTDIR}/Lab1.o.d" $(SILENT) -rsi ${MP_AS_DIR} -c18 
 	
